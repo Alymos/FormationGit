@@ -1,8 +1,7 @@
 Requin
 Cheval
 
-xxxHerbivorexxx
-Lapin 
-Vache
-Canard
-Coq
+**** Carnivore ****
+Ours
+Lion 
+Tigre
