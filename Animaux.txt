@@ -5,3 +5,4 @@ xxxHerbivorexxx
 Lapin 
 Vache
 Canard
+Coq
